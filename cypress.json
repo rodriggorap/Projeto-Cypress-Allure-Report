@@ -1,0 +1,9 @@
+{
+    "testFiles": "**/*.js",
+    "viewportWidth": 1000,
+    "viewportHeight": 660,
+    "defaultCommandTimeout": 20000,
+    "baseUrl": "http://www.juliodelima.com.br/taskit/",
+    "projectId": "an1t34"
+    
+  }

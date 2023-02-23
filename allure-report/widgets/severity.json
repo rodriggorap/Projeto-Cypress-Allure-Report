@@ -1,0 +1,1 @@
+[{"uid":"4e0468318efb38c9","name":"Não deve Logar no sistema Taskit","time":{"start":1677103971698,"stop":1677103972982,"duration":1284},"status":"passed","severity":"normal"},{"uid":"efee9eb5097f33a2","name":"Deve Logar no sistema Taskit","time":{"start":1677103969145,"stop":1677103971680,"duration":2535},"status":"passed","severity":"normal"}]
